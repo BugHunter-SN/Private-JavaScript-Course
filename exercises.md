@@ -13,9 +13,7 @@
 
 
 
-# JavaScript Practice Exercises - Progressive Learning
-
-## Exercise Set 1: Variables and Data Types (Beginner)
+## **Exercise** Set 1: Variables and Data Types (Beginner)
 
 ### Exercise 1.1: Variable Declaration Practice
 Create a JavaScript file and complete the following tasks:
