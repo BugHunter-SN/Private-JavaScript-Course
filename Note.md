@@ -76,8 +76,8 @@ JavaScript has several primitive data types and one complex type (objects).
 
 ```javascript
 // String
-const name = "Brad";
-const city = "Boston";
+const name = "John";
+const city = "Monrovia";
 
 // Number (integers and floats)
 const age = 37;
