@@ -51,7 +51,7 @@ let age = 30;
 age = 31; // This works
 
 // const - cannot be reassigned, block-scoped
-const name = "Brad";
+const name = "John";
 // name = 'John'; // This would cause an error
 
 // var - older way, function-scoped (avoid in modern JS)
