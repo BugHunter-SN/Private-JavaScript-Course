@@ -34,5 +34,8 @@ console.log("University: ", UNIVERSITY_NAME, "Founded: ", FOUNDED_YEAR);
 // 4. Practice undefined and null:
 //    - Create a variable 'grade' that is undefined
 //    - Create a variable 'previousScore' that is null
-
+let grade = undefined;
+let previousScore = null;
 // 5. Use console.log to display all variables and their types
+console.log(grade, typeof grade);
+console.log(previousScore, typeof previousScore);
