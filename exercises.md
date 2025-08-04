@@ -18,7 +18,7 @@
 ### Exercise 1.1: Variable Declaration Practice
 Create a JavaScript file and complete the following tasks:
 
-```java
+```javascript
 // TODO: Declare variables using appropriate naming conventions
 
 // 1. Create variables for a student using camelCase:
