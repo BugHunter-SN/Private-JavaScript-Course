@@ -182,7 +182,7 @@ Full name character count: 13
 ```javascript
 // Create functions to process course descriptions
 
-// const courseDescription = "  JavaScript is a powerful programming language used for web development. It allows developers to create interactive websites.  ";
+const courseDescription = "  JavaScript is a powerful programming language used for web development. It allows developers to create interactive websites.  ";
 
 // TODO: Create these functions:
 
