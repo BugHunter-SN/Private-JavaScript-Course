@@ -19,7 +19,5 @@ console.log(x += 5) // x plus or equal to 5 or add and assign
 
 console.log(x -= 3) // x = x - 3 (now 12)
 
-console.log(x *= 5)
-x *= 2; // x = x * 2 (now 24)
-console.log(x /= 5)
-x /= 4; // x = x / 4 (now 6)
+console.log(x *= 5)// x = x * 2 (now 24)
+console.log(x /= 5)// x = x / 4 (now 6)
