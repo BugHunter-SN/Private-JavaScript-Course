@@ -106,8 +106,8 @@ console.log(typeof z); // "undefined"
 
 - **JavaScript is dynamically typed** - variables can hold different types
 - **`null` shows as "object"** when using `typeof` (known JavaScript quirk)
-- **Numbers are all "number" type** - no separate integer/float types
-
+- **Numbers are all "number" type** - no separate integer/float **types**
+****
 ---
 
 ## Operators in JavaScript
@@ -151,7 +151,7 @@ console.log(a == b); // true (10 == "10")
 console.log(a === b); // false (10 !== "10")
 
 // Other comparisons
-console.log(a > 5); // true
+console.**log**(a > 5); // true
 console.log(a <= 10); // true
 console.log(a != b); // false
 console.log(a !== b); // true
