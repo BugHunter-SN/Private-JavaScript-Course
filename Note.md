@@ -270,9 +270,9 @@ const person = {
   age: 30,
   hobbies: ["music", "movies", "sports"],
   address: {
-    street: "50 Main st",
-    city: "Boston",
-    state: "MA",
+    street: "14 Sstreet",
+    city: "Monrovia",
+    state: "Montserrado",
   },
 };
 ```
