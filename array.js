@@ -29,3 +29,11 @@ console.log(fruits)
 console.log(fruits.length); // Array length
 // console.log(Array.isArray(fruits)); // true
 // console.log(fruits.indexOf("oranges")); // Find index
+
+// Bloom's Taxonomy
+    // step 6 create --> design , hypothesis
+    // step 5 evaluate -->
+    // step 4 Analyze --> judge
+    // step 3 compare to --> thinking
+    // step 2 understanding --> explain
+    // step 1 repeating ==> forgeting
