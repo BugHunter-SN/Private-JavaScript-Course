@@ -63,18 +63,18 @@ const todos = [
 
 // console.log(todos[2].text)
 
-// for (let todo of todos) {
-//   console.log(todo.text);
-// }
+for (let todo of todos) {
+  console.log(todo.text);
+}
 
 for (let i = 0; i < todos.length; i++) {
   console.log(todos[i]);
 }
 
 
-// for(let i =0; i<= 20; i++){
-//     console.log(i)
-// }
+for(let i =0; i<= 20; i++){
+    console.log(i)
+}
 // Accessing object in array
 // console.log(todos[1].text); // "Dinner with wife"
 
