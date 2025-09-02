@@ -329,7 +329,7 @@ const students = [
 // TODO: Test your implementation
 ```
 
-### Exercise 5.2: JSON Data Processing
+### Exercise 5.2: JSON Data Processing or an array of JSON
 ```javascript
 // Process course enrollment data from JSON
 
