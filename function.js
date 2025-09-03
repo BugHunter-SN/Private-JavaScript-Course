@@ -1,7 +1,7 @@
-function greetings(name){
-    return "Hello " + name;
+// function greetings(name){
+//     return "Hello " + name;
     
-}
+// }
 
-const result = greetings("James");
-console.log(result);
+// const result = greetings("James");
+// console.log(result);
